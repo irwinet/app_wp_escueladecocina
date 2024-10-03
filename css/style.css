@@ -3,3 +3,24 @@
     --secundario: #c7c57d;
     --gris : #f5f5f5;
 }
+
+.nav-link {
+    color: black;
+}
+
+.nav-link:hover {
+    color: #f46669;
+}
+
+.nav-link.active {
+    color: #f46669;
+    border-bottom: 2px solid #f46669;
+}
+
+.copyright {
+    font-weight: 700;
+}
+
+.footer {
+    border-bottom: 10px solid #f46669;
+}
